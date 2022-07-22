@@ -1,0 +1,1 @@
+# -sql-select-avg-safety_score-as-average_safety_score-from-CHICAGO_PUBLIC_SCHOOLS
